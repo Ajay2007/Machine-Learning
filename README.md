@@ -5,6 +5,7 @@
 
 Syllabus
 **Regression**
+
 * Regression-Intro and Data
 * Regression-Feature and Labels
 * Regression-Training and Testing
@@ -14,7 +15,8 @@ Syllabus
 * Regression-How to program the Fit Slope
 * Regression-How to program the Best Line
 * Regression-R Squared and coefficient of Determination Theory
-* Regression-How to Program R Squared
+* Regression-How to Program R Squared     
+
 **K Nearest Neighbors**
 * Creating Sample Data for Testing
 * Classification intro with K Nearest Neighbors
